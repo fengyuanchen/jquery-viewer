@@ -1,7 +1,7 @@
 {
   "name": "jquery-viewer",
   "description": "A jQuery plugin wrapper for Viewer.js.",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-beta",
   "main": "dist/jquery-viewer.common.js",
   "module": "dist/jquery-viewer.esm.js",
   "unpkg": "dist/jquery-viewer.js",
@@ -63,11 +63,11 @@
     "rollup": "^0.56.5",
     "rollup-plugin-alias": "^1.4.0",
     "rollup-plugin-babel": "^3.0.3",
-    "rollup-plugin-commonjs": "^9.0.0",
+    "rollup-plugin-commonjs": "^9.1.0",
     "rollup-plugin-node-resolve": "^3.0.3",
     "rollup-watch": "^4.3.1",
-    "uglify-js": "^3.3.13",
-    "viewerjs": "^1.0.0-rc"
+    "uglify-js": "^3.3.15",
+    "viewerjs": "^1.0.0-rc.1"
   },
   "peerDependencies": {
     "viewerjs": ">= 1.0.0",

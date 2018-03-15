@@ -1,11 +1,11 @@
 /*!
- * jQuery Viewer v1.0.0-alpha
+ * jQuery Viewer v1.0.0-beta
  * https://github.com/fengyuanchen/jquery-viewer
  *
  * Copyright (c) 2018 Chen Fengyuan
  * Released under the MIT license
  *
- * Date: 2018-03-10T13:34:46.964Z
+ * Date: 2018-03-15T13:47:28.901Z
  */
 
 'use strict';
@@ -59,7 +59,7 @@ if ($.fn) {
       }
     });
 
-    return typeof result === 'undefined' ? this : result;
+    return result === undefined ? this : result;
   };
 
   $.fn.viewer.Constructor = Viewer;
