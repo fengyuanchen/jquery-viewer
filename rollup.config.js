@@ -33,19 +33,11 @@ module.exports = {
       banner,
       file: 'dist/jquery-viewer.common.js',
       format: 'cjs',
-      globals: {
-        jquery: 'jQuery',
-        viewerjs: 'Viewer',
-      },
     },
     {
       banner,
       file: 'dist/jquery-viewer.esm.js',
       format: 'es',
-      globals: {
-        jquery: 'jQuery',
-        viewerjs: 'Viewer',
-      },
     },
     {
       banner,
