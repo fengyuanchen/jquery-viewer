@@ -1,6 +1,6 @@
 # jquery-viewer
 
-[![Build Status](https://travis-ci.org/fengyuanchen/jquery-viewer.svg)](https://travis-ci.org/fengyuanchen/jquery-viewer) [![Downloads](https://img.shields.io/npm/dm/jquery-viewer.svg)](https://www.npmjs.com/package/jquery-viewer) [![Version](https://img.shields.io/npm/v/jquery-viewer.svg)](https://www.npmjs.com/package/jquery-viewer)
+[![Build Status](https://img.shields.io/travis/fengyuanchen/jquery-viewer.svg)](https://travis-ci.org/fengyuanchen/jquery-viewer) [![Coverage Status](https://img.shields.io/codecov/c/github/fengyuanchen/jquery-viewer.svg)](https://codecov.io/gh/fengyuanchen/jquery-viewer) [![Downloads](https://img.shields.io/npm/dm/jquery-viewer.svg)](https://www.npmjs.com/package/jquery-viewer) [![Version](https://img.shields.io/npm/v/jquery-viewer.svg)](https://www.npmjs.com/package/jquery-viewer)
 
 > A jQuery plugin wrapper for [Viewer.js](https://github.com/fengyuanchen/viewerjs).
 
@@ -108,11 +108,7 @@ If you have to use other plugin with the same namespace, just call the `$.fn.vie
 
 ## Browser support
 
-It is the same as the [browser support of Viewer.js](https://github.com/fengyuanchen/viewerjs#browser-support). As a jQuery plugin, you also need to see the [jQuery Browser Support](http://jquery.com/browser-support/).
-
-## Contributing
-
-Please read through our [contributing guidelines](.github/CONTRIBUTING.md).
+It is the same as the [browser support of Viewer.js](https://github.com/fengyuanchen/viewerjs#browser-support). As a jQuery plugin, you also need to see the [jQuery Browser Support](https://jquery.com/browser-support/).
 
 ## Versioning
 
@@ -120,4 +116,4 @@ Maintained under the [Semantic Versioning guidelines](https://semver.org/).
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com)
+[MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com/)
