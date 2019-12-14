@@ -1,7 +1,7 @@
 import $ from 'jquery';
 import Viewer from 'viewerjs';
 
-if ($.fn) {
+if ($ && $.fn && Viewer) {
   const AnotherViewer = $.fn.viewer;
   const NAMESPACE = 'viewer';
 
